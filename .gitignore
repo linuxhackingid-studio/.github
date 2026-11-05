@@ -1,5 +1,8 @@
 *
 !profile/
+!profile/**
+!logo/
+!logo/**
 !.editorconfig
 !.gitignore
 !README.md

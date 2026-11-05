@@ -11,7 +11,10 @@ This repository powers the public profile for the LinuxHackingID organization on
 ## Included content
 
 - `profile/README.md` for the organization profile page
+- `logo/` for brand assets used by the profile (served via `raw.githubusercontent.com`)
 - Shared organization-level GitHub settings and documentation, when needed
+
+> The `.gitignore` uses an allowlist. Add a `!<path>` / `!<path>/**` entry for any new top-level folder, or it will not be tracked.
 
 ## About LinuxHackingID
 
